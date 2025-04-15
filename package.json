@@ -1,0 +1,31 @@
+{
+  "name": "neon-dark",
+  "displayName": "Neon-Dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension Darwin Sarango",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension Darwin Sarango-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/logo.png",
+  "author": {
+    "name": "Darwin Sarango",
+    "email": "darwin.a.sarango@unl.edu.ec"
+  },
+  "repository": {
+  "url": "https://github.com/DarwinSarango/extension-vsc-neon-dark",
+  "type": "git"
+  },
+  "publisher": "FakeHope"
+}
